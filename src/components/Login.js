@@ -36,6 +36,7 @@ const Login = () => {
         noValidate
         autoComplete="off"
       >
+        {/*
         <h3>To continue, log into HungryScholars</h3>
         <h4 style={{ marginLeft: "10px", marginBottom: "5px" }}>
           Email Address
@@ -98,8 +99,7 @@ const Login = () => {
             </Button>
           </Link>
         </div>
-
-        {/**console.log("INPUT AFTER ONSUBMIT: ", input)**/}
+        */}
       </Box>
     </Box>
   );
